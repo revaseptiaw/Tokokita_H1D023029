@@ -215,9 +215,8 @@ Menyediakan link untuk registrasi.
 <img width="791" height="390" alt="image" src="https://github.com/user-attachments/assets/0fb600d3-297f-4f94-ad52-9d6924dba177" />
 
 
-
 ### Halaman Tambah Produk
-<img width="943" height="414" alt="image" src="https://github.com/user-attachments/assets/92e55d49-da75-44fd-a7cc-17459b90b1aa" />
+<img width="831" height="399" alt="image" src="https://github.com/user-attachments/assets/ffc51faa-ee4f-40b0-b2f2-ca46342b922a" />
 
 
 ### Halaman Detail Produk
