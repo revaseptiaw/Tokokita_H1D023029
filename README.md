@@ -40,7 +40,7 @@ Tombol + untuk membuka form tambah produk.
 
 Drawer menu menyediakan fitur Logout.
 
-Potongan Kode
+Cuplikan Kode
 ```dart
 return FutureBuilder<List<Produk>>(
   future: _listProduk,
@@ -76,6 +76,7 @@ Tombol EDIT membuka form update.
 Tombol DELETE disertai dialog konfirmasi dan memanggil ProdukBloc.deleteProduk.
 
 Cuplikan Kode
+```dart
 Widget _tombolHapusEdit() {
   return Row(
     mainAxisSize: MainAxisSize.min,
@@ -96,6 +97,7 @@ void confirmHapus() {
     Navigator.pop(context);
   });
 }
+```
 
 ### 3. Halaman Form Produk (ProdukForm)
 
