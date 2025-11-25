@@ -7,7 +7,7 @@ NIM: H1D023029
 
 Shift Baru: F
 
-# Aplikasi Mobile TokoKita (CRUD Flutter & CodeIgniter 4)
+## Aplikasi Mobile TokoKita (CRUD Flutter & CodeIgniter 4)
 
 Aplikasi ini menerapkan fitur CRUD (Create, Read, Update, Delete) untuk data Produk menggunakan Flutter sebagai frontend dan CodeIgniter 4 sebagai backend Restful API berbasis PHP/MySQL.
 Aplikasi sudah dimodifikasi sehingga tombol submit berada di sebelah kanan dan judul halaman produk menyertakan nama panggilan "rere".
@@ -202,4 +202,33 @@ Jika berhasil, token dan userID disimpan pada shared_preferences.
 Setelah login, user diarahkan ke ProdukPage.
 
 Menyediakan link untuk registrasi.
+
+### Halaman Login
+<img width="492" height="350" alt="image" src="https://github.com/user-attachments/assets/b10a6eb9-4fb2-4853-99f9-103c614809e8" />
+
+
+### Halaman Registrasi
+<img width="495" height="365" alt="image" src="https://github.com/user-attachments/assets/d97c5b01-e67a-420d-a4fc-6b4b8f5d6329" />
+
+
+### Halaman List Produk
+<img width="791" height="390" alt="image" src="https://github.com/user-attachments/assets/0fb600d3-297f-4f94-ad52-9d6924dba177" />
+
+
+
+### Halaman Tambah Produk
+<img width="943" height="414" alt="image" src="https://github.com/user-attachments/assets/92e55d49-da75-44fd-a7cc-17459b90b1aa" />
+
+
+### Halaman Detail Produk
+<img width="617" height="409" alt="image" src="https://github.com/user-attachments/assets/99701507-e3de-4098-aa72-e01bcdacbb58" />
+
+
+### Halaman Ubah Produk
+<img width="829" height="362" alt="image" src="https://github.com/user-attachments/assets/6cc9e7c4-8113-4725-b1e7-73ac606b3770" />
+
+
+
+
+
 
