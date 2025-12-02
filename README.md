@@ -21,7 +21,7 @@ Aplikasi Flutter **Tokokita** adalah aplikasi manajemen produk sederhana yang me
 ## Proses Login
 
 ### a. Mengisi Form Login
-- <img width="498" height="487" alt="image" src="https://github.com/user-attachments/assets/06b50ff1-b3c4-44d9-ba64-7a535e4e8c15" />
+-<img width="498" height="487" alt="image" src="https://github.com/user-attachments/assets/06b50ff1-b3c4-44d9-ba64-7a535e4e8c15" />
 - Penjelasan:  
   User memasukkan **email/username** dan **password**, lalu menekan tombol login. Data dikirim ke API backend untuk diverifikasi.
 
