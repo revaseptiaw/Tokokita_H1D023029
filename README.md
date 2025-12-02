@@ -54,7 +54,7 @@ void _submitLogin() async {
 - Penjelasan:  
  Jika login gagal, muncul popup menampilkan error dari backend. Jika berhasil, langsung diarahkan ke dashboard.
 
-## 3 Proses CRUD Produk
+## Proses CRUD Produk
 
 ### a.Menambah Data Produk
 -<img width="496" height="604" alt="image" src="https://github.com/user-attachments/assets/c0eec7f7-f036-4d01-8b38-cb8190fa89be" />
