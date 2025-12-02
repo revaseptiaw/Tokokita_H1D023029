@@ -50,14 +50,14 @@ void _submitLogin() async {
 ```
 
 ### b. Popup Login Berhasil / Gagal
-- <img width="501" height="630" alt="image" src="https://github.com/user-attachments/assets/6b47c4cb-4186-4514-b019-6ee06a8456ae" />
+-<img width="501" height="630" alt="image" src="https://github.com/user-attachments/assets/6b47c4cb-4186-4514-b019-6ee06a8456ae" />
 - Penjelasan:  
  Jika login gagal, muncul popup menampilkan error dari backend. Jika berhasil, langsung diarahkan ke dashboard.
 
 ## 3 Proses CRUD Produk
 
 ### a.Menambah Data Produk
-- <img width="496" height="604" alt="image" src="https://github.com/user-attachments/assets/c0eec7f7-f036-4d01-8b38-cb8190fa89be" />
+-<img width="496" height="604" alt="image" src="https://github.com/user-attachments/assets/c0eec7f7-f036-4d01-8b38-cb8190fa89be" />
 - Penjelasan:  
   User mengisi nama produk, harga, dan stok → tekan tombol Tambah → POST request dikirim ke API backend.
 - Kode Flutter:
@@ -117,7 +117,7 @@ FutureBuilder(
 ```
 
 ### c. Mengedit Data Produk
-- <img width="487" height="589" alt="image" src="https://github.com/user-attachments/assets/ccac9697-9757-40f0-921e-3475b8d04a74" />
+-<img width="487" height="589" alt="image" src="https://github.com/user-attachments/assets/ccac9697-9757-40f0-921e-3475b8d04a74" />
 - Penjelasan:  
  User mengubah field → tekan tombol Simpan → PUT/PATCH request dikirim ke API backend.
 - Kode Flutter:
@@ -145,7 +145,7 @@ void _submitEditProduk(int id) async {
 ```
 
 ### d. Menghapus Data Produk
-- <img width="341" height="411" alt="image" src="https://github.com/user-attachments/assets/9f39b552-fb9b-4a0e-84c6-df071a0beeaa" />
+-<img width="341" height="411" alt="image" src="https://github.com/user-attachments/assets/9f39b552-fb9b-4a0e-84c6-df071a0beeaa" />
 - Penjelasan:  
 User menekan tombol Hapus → muncul popup konfirmasi → DELETE request dikirim ke API backend.
 - Kode Flutter:
